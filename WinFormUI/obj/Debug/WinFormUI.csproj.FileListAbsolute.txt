@@ -1,0 +1,15 @@
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\barti\Downloads\EventsDemo_End\WinFormUI\obj\Debug\WinFormUI.pdb
